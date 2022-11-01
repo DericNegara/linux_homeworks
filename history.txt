@@ -1,0 +1,11 @@
+   0 clear
+   1 cat /etc/os-release
+   2 date
+   3 df -h
+   4 top
+   5 clear
+   6 history
+   7 clear
+   8 histrory
+   9 history 
+  10 history > history.txt
